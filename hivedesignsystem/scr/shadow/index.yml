@@ -1,0 +1,12 @@
+---
+global:
+  type: border
+  category: all
+
+imports:
+- ./blur.yml
+- ./color.yml
+- ./offset-x.yml
+- ./offset-y.yml
+- ./opacity.yml
+- ./spread.yml

@@ -1,0 +1,44 @@
+---
+global:
+  type: unit
+  category: spacing
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: pb-4
+    value: '{!spacing-4}'
+    category: spacing-padding-bottom
+
+  - name: pb-8
+    value: '{!spacing-8}'
+    category: spacing-padding-bottom
+
+  - name: pb-16
+    value: '{!spacing-16}'
+    category: spacing-padding-bottom
+
+  - name: pb-24
+    value: '{!spacing-24}'
+    category: spacing-padding-bottom
+
+  - name: pb-32
+    value: '{!spacing-32}'
+    category: spacing-padding-bottom
+
+  - name: pb-40
+    value: '{!spacing-40}'
+    category: spacing-padding-bottom
+
+  - name: pb-48
+    value: '{!spacing-48}'
+    category: spacing-padding-bottom
+
+  - name: pb-56
+    value: '{!spacing-56}'
+    category: spacing-padding-bottom
+
+  - name: pb-64
+    value: '{!spacing-64}'
+    category: spacing-padding-bottom

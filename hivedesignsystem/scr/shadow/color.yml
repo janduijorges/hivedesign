@@ -1,0 +1,29 @@
+---
+global:
+  type: color
+  category: category-color
+
+props:
+  - name: shadow-color-level-1
+    value: '000000'
+    category: shadow-color
+
+  - name: shadow-color-level-2
+    value: '000000'
+    category: shadow-color
+
+  - name: shadow-color-level-3
+    value: '000000'
+    category: shadow-color
+
+  - name: shadow-color-level-4
+    value: '000000'
+    category: shadow-color
+
+  - name: shadow-color-level-5
+    value: '000000'
+    category: shadow-color
+
+  - name: shadow-color-level-6
+    value: '000000'
+    category: shadow-color

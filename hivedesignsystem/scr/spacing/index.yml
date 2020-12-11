@@ -1,0 +1,14 @@
+---
+global:
+  type: colors
+  category: all
+
+imports:
+- ./margin-bottom.yml
+- ./margin-left.yml
+- ./margin-right.yml
+- ./margin-top.yml
+- ./padding-bottom.yml
+- ./padding-left.yml
+- ./padding-right.yml
+- ./padding-top.yml

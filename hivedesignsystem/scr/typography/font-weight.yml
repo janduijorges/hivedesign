@@ -1,0 +1,18 @@
+
+---
+global:
+  type: number
+  category: typography
+
+props:
+  - name: font-weight-regular
+    value: 400
+    category: font-weight
+
+  - name: font-weight-bold
+    value: 700
+    category: font-weight
+
+  - name: font-weight-black
+    value: 800
+    category: font-weight

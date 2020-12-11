@@ -1,0 +1,24 @@
+# Ignore all hidden dotfiles
+.*
+
+# Whitelist useful dotfiles
+!.editorconfig
+!.eslintrc.yml
+!.eslintignore
+!.gitignore
+!.npmignore
+!.prettierrc
+!.travis.yml
+
+# Add a .gitkeep file in an empty
+# directory to check it in the repository
+!.gitkeep
+
+# Ignore modules
+node_modules
+
+# Whitelist node_modules test dir
+!lib/__fixtures__/node_modules
+
+# Ignore logs
+*.log

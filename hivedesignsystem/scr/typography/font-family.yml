@@ -1,0 +1,11 @@
+
+---
+global:
+  type: string
+  category: typography
+
+props:
+  - name: font-family-01
+    value: "'Lato', serif"
+    type: string
+    category: font-family

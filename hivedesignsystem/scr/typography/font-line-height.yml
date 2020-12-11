@@ -1,0 +1,21 @@
+---
+global:
+  type: unit
+  category: typography
+
+props:
+  - name: font-line-height-tight
+    value: '100%'
+    category: font-line-height
+
+  - name: font-line-height-medium
+    value: '120%'
+    category: font-line-height
+
+  - name: font-line-height-distant
+    value: '150%'
+    category: font-line-height
+
+  - name: font-line-height-superdistant
+    value: '200%'
+    category: font-line-height

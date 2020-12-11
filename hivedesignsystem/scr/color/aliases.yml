@@ -1,0 +1,45 @@
+global: 
+  type: aliases
+  category: pallete-color
+
+aliases: 
+  color-brand01-default: 'F37920'
+  color-brand01-darken01: 'D05B17'
+  color-brand01-darken02: 'AE4110'
+  color-brand01-lighten01: 'FBBE78'
+  color-brand01-lighten02: 'FDD9A5'
+  color-brand02-default: '0098A6'
+  color-brand02-darken01: '006973'
+  color-brand02-darken02: '005259'
+  color-brand02-lighten01: '00C6D9'
+  color-brand02-lighten02: '6FE4EF'
+
+  color-neutral-darken01: '1e2121'
+  color-neutral-darken02: '3a3a3b'
+  color-neutral-darken03: '616b6d'
+  color-neutral-darken04: '8f9ea1'
+  color-neutral-lighten01: 'ffffff'
+  color-neutral-lighten02: 'f2f7f6'
+  color-neutral-lighten03: 'e5f0ef'
+  color-neutral-lighten04: 'c5d3d3'
+
+  color-secondary-sucess-default: '3D9140'
+  color-secondary-sucess-darken: '2C7C36'
+  color-secondary-sucess-lighten01: '9BDE90'
+  color-secondary-sucess-lighten02: 'E9FFE5'
+
+  color-secondary-warning-default: 'FFAF11'
+  color-secondary-warning-darken: 'DB8E0C'
+  color-secondary-warning-lighten01: 'FFD870'
+  color-secondary-warning-lighten02: 'FFF8E5'
+
+  color-secondary-error-default: 'DA1414'
+  color-secondary-error-darken: 'BB0E1D'
+  color-secondary-error-lighten01: 'F3866E'
+  color-secondary-error-lighten02: 'FFEAE5'
+
+  color-secondary-info-default: '20A8DE'
+  color-secondary-info-darken: '1783BE'
+  color-secondary-info-lighten01: '77E2F5'
+  color-secondary-info-lighten02: 'E5FBFF'
+

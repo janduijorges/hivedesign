@@ -1,0 +1,44 @@
+---
+global:
+  type: unit
+  category: spacing
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: mb-4
+    value: '{!spacing-4}'
+    category: spacing-margin-bottom
+
+  - name: mb-8
+    value: '{!spacing-8}'
+    category: spacing-margin-bottom
+
+  - name: mb-16
+    value: '{!spacing-16}'
+    category: spacing-margin-bottom
+
+  - name: mb-24
+    value: '{!spacing-24}'
+    category: spacing-margin-bottom
+
+  - name: mb-32
+    value: '{!spacing-32}'
+    category: spacing-margin-bottom
+
+  - name: mb-40
+    value: '{!spacing-40}'
+    category: spacing-margin-bottom
+
+  - name: mb-48
+    value: '{!spacing-48}'
+    category: spacing-margin-bottom
+
+  - name: mb-56
+    value: '{!spacing-56}'
+    category: spacing-margin-bottom
+
+  - name: mb-64
+    value: '{!spacing-64}'
+    category: spacing-margin-bottom

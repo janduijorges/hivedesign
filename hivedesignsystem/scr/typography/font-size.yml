@@ -1,0 +1,50 @@
+  
+---
+global:
+  type: unit
+  category: typography
+
+props:
+  - name: font-size-10
+    value: '10px'
+    category: font-size
+
+  - name: font-size-12
+    value: '12px'
+    category: font-size
+
+  - name: font-size-14
+    value: '14px'
+    category: font-size
+
+  - name: font-size-16
+    value: '16px'
+    category: font-size
+
+  - name: font-size-18
+    value: '18px'
+    category: font-size
+
+  - name: font-size-20
+    value: '20px'
+    category: font-size
+
+  - name: font-size-24
+    value: '24px'
+    category: font-size
+
+  - name: font-size-28
+    value: '28px'
+    category: font-size
+
+  - name: font-size-32
+    value: '32px'
+    category: font-size
+
+  - name: font-size-36
+    value: '36px'
+    category: font-size
+
+  - name: font-size-40
+    value: '40px'
+    category: font-size

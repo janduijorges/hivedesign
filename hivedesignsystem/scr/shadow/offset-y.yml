@@ -1,0 +1,28 @@
+global:
+  type: unit
+  category: shadow
+
+props:
+  - name: shadow-y-level-1
+    value: '1px'
+    category: shadow-offset-y
+
+  - name: shadow-y-level-2
+    value: '4px'
+    category: shadow-offset-y
+
+  - name: shadow-y-level-3
+    value: '8px'
+    category: shadow-offset-y
+
+  - name: shadow-y-level-4
+    value: '16px'
+    category: shadow-offset-y
+
+  - name: shadow-y-level-5
+    value: '32px'
+    category: shadow-offset-y
+
+  - name: shadow-y-level-6
+    value: '40px'
+    category: shadow-offset-y

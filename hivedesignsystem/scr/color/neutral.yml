@@ -1,0 +1,56 @@
+---
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-neutral-darken01
+    value: '{!color-neutral-darken01}'
+    meta:
+      friendlyName: Color Neutral Darken 01
+    category: neutral-color
+
+  - name: color-neutral-darken02
+    value: '{!color-neutral-darken02}'
+    meta:
+      friendlyName: Color Neutral Darken 02
+    category: neutral-color
+
+  - name: color-neutral-darken03
+    value: '{!color-neutral-darken03}'
+    meta:
+      friendlyName: Color Neutral Darken 03
+    category: neutral-color
+
+  - name: color-neutral-darken04
+    value: '{!color-neutral-darken04}'
+    meta:
+      friendlyName: Color Neutral Darken 04
+    category: neutral-color
+
+  - name: color-neutral-lighten01
+    value: '{!color-neutral-lighten01}'
+    meta:
+      friendlyName: Color Neutral Lighten 01
+    category: neutral-color
+
+  - name: color-neutral-lighten02
+    value: '{!color-neutral-lighten02}'
+    meta:
+      friendlyName: Color Neutral Lighten 02
+    category: neutral-color
+
+  - name: color-neutral-lighten03
+    value: '{!color-neutral-lighten03}'
+    meta:
+      friendlyName: Color Neutral Lighten 03
+    category: neutral-color
+
+  - name: color-neutral-lighten04
+    value: '{!color-neutral-lighten04}'
+    meta:
+      friendlyName: Color Neutral Lighten 04
+    category: neutral-color

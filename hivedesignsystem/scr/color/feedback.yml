@@ -1,0 +1,104 @@
+---
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-secondary-sucess-default
+    value: '{!color-secondary-sucess-default}'
+    meta:
+      friendlyName: Color Sucess Default
+    category: brand-color
+
+  - name: color-secondary-sucess-darken
+    value: '{!color-secondary-sucess-darken}'
+    meta:
+      friendLyName: Color Sucess Darken
+    category: brand-color
+
+  - name: color-secondary-sucess-lighten01
+    value: '{!color-secondary-sucess-lighten01}'
+    meta:
+      friendLyName: Color Sucess Lighten 01
+    category: brand-color
+
+  - name: color-secondary-sucess-lighten02
+    value: '{!color-secondary-sucess-lighten02}'
+    meta:
+      friendLyName: Color Sucess Lighten 02
+    category: brand-color
+
+  - name: color-secondary-warning-default
+    value: '{!color-secondary-warning-default}'
+    meta:
+      friendlyName: Color Warning Default
+    category: brand-color
+
+  - name: color-secondary-warning-darken
+    value: '{!color-secondary-warning-darken}'
+    meta:
+      friendLyName: Color Waning Darken
+    category: brand-color
+
+  - name: color-secondary-warning-lighten01
+    value: '{!color-secondary-warning-lighten01}'
+    meta:
+      friendLyName: Color Warning Lighten 01
+    category: brand-color
+
+  - name: color-secondary-warning-lighten02
+    value: '{!color-secondary-warning-lighten02}'
+    meta:
+      friendLyName: Color Warning Lighten 02
+    category: brand-color
+
+  - name: color-secondary-error-default
+    value: '{!color-secondary-error-default}'
+    meta:
+      friendlyName: Color Error Default
+    category: brand-color
+
+  - name: color-secondary-error-darken
+    value: '{!color-secondary-error-darken}'
+    meta:
+      friendLyName: Color Error Darken
+    category: brand-color
+
+  - name: color-secondary-error-lighten01
+    value: '{!color-secondary-error-lighten01}'
+    meta:
+      friendLyName: Color Error Lighten 01
+    category: brand-color
+
+  - name: color-secondary-error-lighten02
+    value: '{!color-secondary-error-lighten02}'
+    meta:
+      friendLyName: Color Error Lighten 02
+    category: brand-color
+  
+  - name: color-secondary-info-default
+    value: '{!color-secondary-info-default}'
+    meta:
+      friendlyName: Color Info Default
+    category: brand-color
+
+  - name: color-secondary-info-darken
+    value: '{!color-secondary-info-darken}'
+    meta:
+      friendLyName: Color Info Darken
+    category: brand-color
+
+  - name: color-secondary-info-lighten01
+    value: '{!color-secondary-info-lighten01}'
+    meta:
+      friendLyName: Color Info Lighten 01
+    category: brand-color
+
+  - name: color-secondary-info-lighten02
+    value: '{!color-secondary-info-lighten02}'
+    meta:
+      friendLyName: Color Info Lighten 02
+    category: brand-color

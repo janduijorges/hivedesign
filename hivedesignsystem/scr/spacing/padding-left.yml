@@ -1,0 +1,44 @@
+---
+global:
+  type: unit
+  category: spacing
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: pl-4
+    value: '{!spacing-4}'
+    category: spacing-padding-left
+
+  - name: pl-8
+    value: '{!spacing-8}'
+    category: spacing-padding-left
+
+  - name: pl-16
+    value: '{!spacing-16}'
+    category: spacing-padding-left
+
+  - name: pl-24
+    value: '{!spacing-24}'
+    category: spacing-padding-left
+
+  - name: pl-32
+    value: '{!spacing-32}'
+    category: spacing-padding-left
+
+  - name: pl-40
+    value: '{!spacing-40}'
+    category: spacing-padding-left
+
+  - name: pl-48
+    value: '{!spacing-48}'
+    category: spacing-padding-left
+
+  - name: pl-56
+    value: '{!spacing-56}'
+    category: spacing-padding-left
+
+  - name: pl-64
+    value: '{!spacing-64}'
+    category: spacing-padding-left

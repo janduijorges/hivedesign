@@ -1,0 +1,10 @@
+{
+  "imports": ["tokens"],
+  "props": {
+    "TOKEN_A": {
+      "category": "test",
+      "type": "test",
+      "value": "e"
+    }
+  }
+}

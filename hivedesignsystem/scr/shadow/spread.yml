@@ -1,0 +1,28 @@
+global:
+  type: number
+  category: shadow
+
+props:
+  - name: shadow-spread-leve-1
+    value: 0
+    category: shadow-spread-radius
+
+  - name: shadow-spread-leve-2
+    value: 0
+    category: shadow-spread-radius
+
+  - name: shadow-spread-leve-3
+    value: 0
+    category: shadow-spread-radius
+
+  - name: shadow-spread-leve-4
+    value: 0
+    category: shadow-spread-radius
+
+  - name: shadow-spread-leve-5
+    value: 0
+    category: shadow-spread-radius
+
+  - name: shadow-spread-leve-6
+    value: 0
+    category: shadow-spread-radius

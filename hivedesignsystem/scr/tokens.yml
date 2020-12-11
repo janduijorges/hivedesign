@@ -1,0 +1,11 @@
+imports:
+  - ./color/index.yml
+  - ./border/index.yml
+  - ./radius/index.yml
+  - ./shadow/index.yml
+  - ./spacing/index.yml
+  - ./typography/index.yml
+
+
+global:
+  category: tokens

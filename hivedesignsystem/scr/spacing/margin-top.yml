@@ -1,0 +1,44 @@
+---
+global:
+  type: unit
+  category: spacing
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: mt-4
+    value: '{!spacing-4}'
+    category: spacing-margin-top
+
+  - name: mt-8
+    value: '{!spacing-8}'
+    category: spacing-margin-top
+
+  - name: mt-16
+    value: '{!spacing-16}'
+    category: spacing-margin-top
+
+  - name: mt-24
+    value: '{!spacing-24}'
+    category: spacing-margin-top
+
+  - name: mt-32
+    value: '{!spacing-32}'
+    category: spacing-margin-top
+
+  - name: mt-40
+    value: '{!spacing-40}'
+    category: spacing-margin-top
+
+  - name: mt-48
+    value: '{!spacing-48}'
+    category: spacing-margin-top
+
+  - name: mt-56
+    value: '{!spacing-56}'
+    category: spacing-margin-top
+
+  - name: mt-64
+    value: '{!spacing-64}'
+    category: spacing-margin-top

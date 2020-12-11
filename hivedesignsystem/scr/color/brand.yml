@@ -1,0 +1,69 @@
+---
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-brand01-default
+    value: '{!color-brand01-default}'
+    meta:
+      friendlyName: Color Brand Main Default
+    category: brand-color
+
+  - name: color-brand01-darken01
+    value: '{!color-brand01-darken01}'
+    meta:
+      friendlyName: Color Brand Main Darken 01
+    category: brand-color
+
+  - name: color-brand01-darken02
+    value: '{!color-brand01-darken02}'
+    meta:
+      friendlyName: Color Brand Main Darken 02
+    category: brand-color
+
+  - name: color-brand01-lighten01
+    value: '{!color-brand01-lighten01}'
+    meta:
+      friendlyName: Color Brand Main Lighten 01
+    category: brand-color
+
+  - name: color-brand01-lighten02
+    value: '{!color-brand01-lighten02}'
+    meta:
+      friendlyName: Color Brand Main Lighten 02
+    category: brand-color
+
+  - name: color-brand02-default
+    value: '{!color-brand02-default}'
+    meta:
+      friendlyName: Color Brand Secondary Default
+    category: brand-color
+
+  - name: color-brand02-darken01
+    value: '{!color-brand02-darken01}'
+    meta:
+      friendlyName: Color Brand Secondary Darken 01
+    category: brand-color
+
+  - name: color-brand02-darken02
+    value: '{!color-brand02-darken02}'
+    meta:
+      friendlyName: Color Brand Secondary Darken 02
+    category: brand-color
+
+
+  - name: color-brand02-lighten01
+    value: '{!color-brand02-lighten01}'
+    meta:
+      friendlyName: Color Brand Secondary Lighten 01
+    category: brand-color
+
+  - name: color-brand02-lighten02
+    value: '{!color-brand02-lighten02}'
+    meta:
+      friendlyName: Color Brand Secondary Lighten 02
+    category: brand-color
