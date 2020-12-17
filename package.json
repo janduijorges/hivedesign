@@ -1,0 +1,23 @@
+{
+  "name": "hivedesign-tokens",
+  "version": "1.0.1",
+  "description": "Hivetokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janduijorges/hivedesign.git"
+  },
+  "keywords": [
+    "design",
+    "system"
+  ],
+  "author": "jandui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janduijorges/hivedesign/issues"
+  },
+  "homepage": "https://github.com/janduijorges/hivedesign#readme"
+}

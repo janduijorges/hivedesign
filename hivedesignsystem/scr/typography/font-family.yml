@@ -6,6 +6,6 @@ global:
 
 props:
   - name: font-family-01
-    value: "'Lato', serif"
+    value: "'Teste', serif"
     type: string
     category: font-family
